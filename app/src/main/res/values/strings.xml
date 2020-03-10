@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+
+
+    <string name="pref_config">example.SharedPreference</string>
+    <string name="logine_status">logine_status</string>
+
+</resources>
+
